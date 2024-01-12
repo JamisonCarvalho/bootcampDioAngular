@@ -1,0 +1,14 @@
+<hr>
+<p [ngClass]="estilo" (mouseover)="trocar()">comp-atributos works!</p>
+<input type="text" >
+
+<h2>Lista de compras</h2>
+<p>Adicione um item</p>
+<input type="text" [(ngModel)]="item">
+<button (click)="adicionarLista()">Adicionar</button>
+<p>{{ item }}</p>
+
+<ul>
+    <li *ngFor="let i of lista"> {{ i }}</li>
+</ul>
+<hr>
