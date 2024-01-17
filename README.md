@@ -13,6 +13,7 @@ Aqui irei documentar toda a minha trajetória no bootcamp da [DIO](https://web.d
 - [Introdução ao JavaScript](https://github.com/JamisonCarvalho/bootcampDioAngular/tree/main/trabalhos/01%20-%20introducao-js)
 - [Fundamentos do Angular](https://github.com/JamisonCarvalho/bootcampDioAngular/tree/main/trabalhos/03%20-%20fundamento%20do%20angular)
 - [Explorando Angular](https://github.com/JamisonCarvalho/bootcampDioAngular/tree/main/trabalhos/04-explorando-angular)
+- [Trabalhando com Rotas Angular](https://github.com/JamisonCarvalho/bootcampDioAngular/tree/main/trabalhos/05-trabalhando-com-rotas-angular/rotas)
 
 ## Autor
 
