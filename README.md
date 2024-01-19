@@ -14,6 +14,7 @@ Aqui irei documentar toda a minha trajetória no bootcamp da [DIO](https://web.d
 - [Fundamentos do Angular](https://github.com/JamisonCarvalho/bootcampDioAngular/tree/main/trabalhos/03%20-%20fundamento%20do%20angular)
 - [Explorando Angular](https://github.com/JamisonCarvalho/bootcampDioAngular/tree/main/trabalhos/04-explorando-angular)
 - [Trabalhando com Rotas Angular](https://github.com/JamisonCarvalho/bootcampDioAngular/tree/main/trabalhos/05-trabalhando-com-rotas-angular/rotas)
+- [Trabalhando com Services no Angular](https://github.com/JamisonCarvalho/bootcampDioAngular/tree/main/trabalhos/06-trabalhando-com-services-angular/aula-service)
 
 ## Autor
 
