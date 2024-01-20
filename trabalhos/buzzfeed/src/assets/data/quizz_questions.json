@@ -1,0 +1,57 @@
+{
+    "title":"Perfil Financeiro Quiz",
+    "questions":[
+      {
+        "id":1,
+        "question": "Como você se sente em relação ao endividamento?",
+        "options":[
+          {"id": 1, "name":"Sempre tento evitá-lo ", "alias":"A"},
+          {"id": 2, "name":"Aceito em situações necessárias", "alias":"B"},
+          {"id": 3, "name":"Não me importo, desde que possa satisfazer meus desejos", "alias":"B"}
+        ]
+      },
+      {
+        "id":2,
+        "question": "Como você geralmente gerencia seu orçamento mensal?",
+        "options":[
+          {"id": 1, "name":"Sempre busco economizar e planejar meus gastos", "alias":"D"},
+          {"id": 2, "name":"Gasto o que é necessário, mas sem muita preocupação", "alias":"C"},
+          {"id": 3, "name":"Raramente presto atenção, apenas gasto conforme a vontade", "alias":"B"}
+        ]
+      },
+      {
+        "id":3,
+        "question": "Como você acompanha seus investimentos, se houver?",
+        "options":[
+          {"id": 1, "name":"Não invisto", "alias":"C"},
+          {"id": 2, "name":"Verifico ocasionalmente", "alias":"D"},
+          {"id": 3, "name":"Acompanho regularmente, fazendo ajustes quando necessário", "alias":"E"}
+        ]
+      },
+      {
+        "id":4,
+        "question": "Qual é a sua atitude predominante em relação ao dinheiro?",
+        "options":[
+          {"id": 1, "name":"Evito gastar, sou mais cauteloso", "alias":"D"},
+          {"id": 2, "name":"Gasto moderadamente, equilibrando necessidades e desejos", "alias":"C"},
+          {"id": 3, "name":"Gasto livremente, buscando satisfação imediata", "alias":"B"}
+        ]
+      },
+      {
+        "id":5,
+        "question": "Como você se prepara para metas financeiras de longo prazo?",
+        "options":[
+          {"id": 1, "name":"Evito compromissos de longo prazo ", "alias":"A"},
+          {"id": 2, "name":"Tenho metas, mas não me preocupo muito com o futuro", "alias":"C"},
+          {"id": 3, "name":"Faço investimentos e me planejo para o futuro", "alias":"E"}
+        ]
+      }
+    ],
+    "results":{
+      "A": "devedor, alguém que não se preocupa muito com limites de gastos e tende a gastar para obter satisfação imediata, acumulando dividas ao longo da vida.",
+      "B": "gastador, alguém que não se preocupa muito com limites de gastos e tende a gastar para obter satisfação imediata.",
+      "C": "desligado, uma pessoa que não presta muita atenção às finanças, gasta o que é necessário, mas sem um planejamento cuidadoso.",
+      "D": "poupador, alguém que tem uma mentalidade de economizar, evita gastos desnecessários e busca construir uma reserva financeira.",
+      "E": "investidor, uma pessoa que está ativamente envolvida no acompanhamento de investimentos, toma decisões informadas e ajusta suas estratégias conforme necessário."
+    }
+  }
