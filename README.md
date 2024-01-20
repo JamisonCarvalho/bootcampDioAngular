@@ -7,7 +7,7 @@ Aqui irei documentar toda a minha trajetória no bootcamp da [DIO](https://web.d
 ## 🔗 Desafios de código
 - [Pokedex](https://github.com/JamisonCarvalho/bootcampDioAngular/tree/main/trabalhos/pokedex)
 - [Blog](https://github.com/JamisonCarvalho/bootcampDioAngular/tree/main/trabalhos/blog)
-- [Clone BuzzFeed](#) ⚠ em produção
+- [Clone BuzzFeed](https://github.com/JamisonCarvalho/bootcampDioAngular/tree/main/trabalhos/buzzfeed)
 
 ## 🔗 Cursos
 - [Introdução ao JavaScript](https://github.com/JamisonCarvalho/bootcampDioAngular/tree/main/trabalhos/01%20-%20introducao-js)
